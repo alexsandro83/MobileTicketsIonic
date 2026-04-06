@@ -1,11 +1,11 @@
 Desenvolvido por:
-Adilson Pedro Ferreira Cavalcanti Filho;
-Deyvison Francisco Soares Silva;
-Leticia Rodrigues Pereira Ferreira;
-Augusto Alves dos Santos;
-Pedro Lucas Barbosa da Silva;
-Alex Johny Santos da Silva;
-Alexsandro Souza do Nascimento.
+- Adilson Pedro Ferreira Cavalcanti Filho
+- Alex Johny Santos da Silva
+- Alexsandro Souza do Nascimento.
+- Augusto Alves dos Santos
+- Deyvison Francisco Soares Silva
+- Leticia Rodrigues Pereira Ferreira
+- Pedro Lucas Barbosa da Silva
 
 # MobileTicketsIonic 🏥
 
