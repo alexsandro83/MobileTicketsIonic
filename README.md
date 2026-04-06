@@ -1,3 +1,12 @@
+Desenvolvido por:
+Adilson Pedro Ferreira Cavalcanti Filho;
+Deyvison Francisco Soares Silva;
+Leticia Rodrigues Pereira Ferreira;
+Augusto Alves dos Santos;
+Pedro Lucas Barbosa da Silva;
+Alex Johny Santos da Silva;
+Alexsandro Souza do Nascimento.
+
 # MobileTicketsIonic 🏥
 
 Sistema mobile para gestão de filas e tickets de atendimento laboratorial, desenvolvido com **Ionic Framework** e **Angular**. O projeto simula o fluxo completo desde a emissão da senha até a chamada no guichê, respeitando regras rigorosas de priorização.
@@ -35,3 +44,4 @@ Interface para os funcionários chamarem o próximo cliente seguindo a lógica d
 1. Instale as dependências:
    ```bash
    npm install
+   ng serve
