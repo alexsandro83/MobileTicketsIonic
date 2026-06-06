@@ -1,14 +1,11 @@
 import { Component } from '@angular/core';
-import { CommonModule } from '@angular/common';
-import { IonicModule } from '@ionic/angular';
 import { QueueService } from '../services/queue.service';
 
 @Component({
   selector: 'app-tab3',
+  standalone: false,
   templateUrl: 'tab3.page.html',
   styleUrls: ['tab3.page.scss'],
-  standalone: true,
-  imports: [IonicModule, CommonModule],
 })
 export class Tab3Page {
   senhaAtual: string | undefined = '';
